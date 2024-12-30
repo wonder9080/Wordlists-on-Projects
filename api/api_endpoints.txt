@@ -1,14 +1,19 @@
+# documentation
+/docs - FastAPI
+/redoc - OpenAPI(Swagger), Redoc
+/api/v1/
+/api/v2/
+/api/v3/
+/api
+/api/docs
 /api-docs/
 /swagger-ui.html
 /swagger-ui/index.html
 /v2/
-/docs/ : FastAPI
 /documentation/
 /api-docs.json
 /v1/docs
 /v3/api-docs/
-/api
-/api/v1
 /swagger/index.html
 /openapi.json
 /rest
@@ -24,7 +29,7 @@ beta
 dev
 test
 
-# endpoints /v2/
+# endpoints e.g. /v2/FUZZ
 admin
 api-docs
 auth
@@ -77,3 +82,5 @@ audit
 test
 debug
 dev
+
+
