@@ -1,0 +1,11 @@
+info.php
+testphp.php
+debug.php
+test.php
+serverinfo.php
+env.php
+config.php
+siteinfo.php
+appinfo.php
+status.php
+install.php
