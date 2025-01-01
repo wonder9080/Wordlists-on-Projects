@@ -1,0 +1,32 @@
+/admin
+/backup
+/old
+/test
+/config
+info
+help
+sharedocs
+docs
+doc
+
+conf files
+/config.php
+/config.json
+/settings.json
+/admin/config.php
+		- guessing -> Fuzzing wordlist 
+write
+edit
+view
+modify
+
+# auth
+/Signup
+/Sign_up
+/registration
+/join
+/enroll
+/subscribe
+/register
+/Sign-Up
+/v1/signup
