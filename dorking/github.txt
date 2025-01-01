@@ -1,0 +1,12 @@
+secretkey
+accesskey
+default
+access_key
+username
+password
+key
+sql
+db
+database
+user
+admin
