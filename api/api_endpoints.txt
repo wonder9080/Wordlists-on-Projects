@@ -29,7 +29,10 @@ beta
 dev
 test
 
-# endpoints e.g. /v2/FUZZ
+# endpoints e.g. /api/FUZZ or /api/v2/FUZZ
+/api/v1/FUZZ
+/api/v2/users
+/api/v2/logs
 admin
 api-docs
 auth
