@@ -8,4 +8,5 @@ config.php
 siteinfo.php
 appinfo.php
 status.php
+# Drupal
 install.php
