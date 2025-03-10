@@ -1,0 +1,9 @@
+/status
+/health
+/shutdown
+/admin/applications
+/admin/deploy
+/admin/undeploy
+/admin/servlets
+/admin/certificates
+/metrics
